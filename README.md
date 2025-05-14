@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/modelcontextprotocol-create-typescript-server-badge.png)](https://mseep.ai/app/modelcontextprotocol-create-typescript-server)
+
 # create-typescript-server ![NPM Version](https://img.shields.io/npm/v/%40modelcontextprotocol%2Fcreate-server)
 
 A command line tool for quickly scaffolding new MCP (Model Context Protocol) servers.
